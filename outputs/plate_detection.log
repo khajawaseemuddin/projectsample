@@ -1,0 +1,76 @@
+2025-04-22 23:42:46,144 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-22 23:42:48,378 - INFO - Plate detected for vehicle 10: PJ66 HEWi
+2025-04-22 23:42:48,871 - INFO - Plate detected for vehicle 10: Peg HFW
+2025-04-22 23:42:49,387 - INFO - Plate detected for vehicle 10: Pu66 HFW:
+2025-04-22 23:42:49,967 - INFO - Plate detected for vehicle 11: 
+2025-04-22 23:42:50,580 - INFO - Plate detected for vehicle 11: PK
+2025-04-22 23:42:51,317 - INFO - Plate detected for vehicle 11: X Lic RXV ?
+2025-04-22 23:42:51,860 - INFO - Plate detected for vehicle 12: PKOTRXV; 
+2025-04-22 23:42:52,401 - INFO - Plate detected for vehicle 12: PKO7RXV:
+2025-04-22 23:42:52,990 - INFO - Plate detected for vehicle 12: PKORXUA
+2025-04-22 23:42:53,395 - INFO - Plate detected for vehicle 17: P:GGHFH
+2025-04-22 23:42:53,814 - INFO - Plate detected for vehicle 17: J66 HF
+2025-04-22 23:42:54,587 - INFO - Plate detected for vehicle 21: pGpXuo
+2025-04-22 23:42:55,152 - INFO - Plate detected for vehicle 21: @GPISXDo
+2025-04-22 23:42:55,747 - INFO - Plate detected for vehicle 21: Ghi9 Va)u):
+2025-04-22 23:42:56,229 - INFO - Plate detected for vehicle 23: cpi9kdO
+2025-04-22 23:42:56,680 - INFO - Plate detected for vehicle 23: 68 Lh64 LhF 63n6ol
+2025-04-22 23:42:57,139 - INFO - Plate detected for vehicle 23: 80 REALNF 3mont
+2025-04-22 23:42:57,979 - INFO - Plate detected for vehicle 24: nef 7;0 @LeeKon DJi 816ar
+2025-04-22 23:42:58,309 - INFO - Plate detected for vehicle 24: cPig dO
+2025-04-22 23:42:58,661 - INFO - Plate detected for vehicle 24: GPIS KDO
+2025-04-22 23:42:58,905 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:42:59,146 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:42:59,387 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:42:59,971 - INFO - Plate detected for vehicle 2: WookSL
+2025-04-22 23:43:00,299 - INFO - Plate detected for vehicle 3: {B98E02 
+2025-04-22 23:43:00,920 - INFO - Plate detected for vehicle 3: kmSRrr 0.75] 2BE02
+2025-04-22 23:43:01,296 - INFO - Plate detected for vehicle 3: IBZ9E02)
+2025-04-22 23:43:01,759 - INFO - Plate detected for vehicle 5: GyiNnAO
+2025-04-22 23:43:02,237 - INFO - Plate detected for vehicle 5: GYINNaO
+2025-04-22 23:43:02,715 - INFO - Plate detected for vehicle 5: GYQMO
+2025-04-22 23:43:03,123 - INFO - Plate detected for vehicle 7: 
+2025-04-22 23:43:03,560 - INFO - Plate detected for vehicle 7: 60"
+2025-04-22 23:43:04,022 - INFO - Plate detected for vehicle 7: 065 DTV:
+2025-04-22 23:43:04,623 - INFO - Plate detected for vehicle 9: 7X4 FGYGA ZG]
+2025-04-22 23:43:05,168 - INFO - Plate detected for vehicle 9: GYGNZGH
+2025-04-22 23:43:06,045 - INFO - Plate detected for vehicle 9: GYGNZG | 743 741 T
+2025-04-22 23:43:06,047 - INFO - Plate detection completed. Processed 41 vehicles, detected 36 plates.
+2025-04-22 23:59:10,638 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-22 23:59:12,296 - INFO - Plate detected for vehicle 10: GY64VZG
+2025-04-22 23:59:12,375 - INFO - Plate detected for vehicle 10: GY64VZG
+2025-04-22 23:59:12,448 - INFO - Plate detected for vehicle 10: GY64VZG
+2025-04-22 23:59:12,526 - INFO - Plate detected for vehicle 11: PJ66HFW
+2025-04-22 23:59:12,601 - INFO - Plate detected for vehicle 11: PJ66HFW
+2025-04-22 23:59:12,670 - INFO - Plate detected for vehicle 11: PJ66HFW
+2025-04-22 23:59:12,737 - INFO - Plate detected for vehicle 12: PK07RXV
+2025-04-22 23:59:12,806 - INFO - Plate detected for vehicle 12: PK07RXV
+2025-04-22 23:59:12,875 - INFO - Plate detected for vehicle 12: PK07RXV
+2025-04-22 23:59:12,947 - INFO - Plate detected for vehicle 17: LM64LMF
+2025-04-22 23:59:13,025 - INFO - Plate detected for vehicle 17: LM64LMF
+2025-04-22 23:59:13,287 - INFO - Plate detected for vehicle 21: GP19XDO
+2025-04-22 23:59:13,355 - INFO - Plate detected for vehicle 21: GP19XDO
+2025-04-22 23:59:13,422 - INFO - Plate detected for vehicle 21: GP19XDO
+2025-04-22 23:59:13,489 - INFO - Plate detected for vehicle 23: LF64KDA
+2025-04-22 23:59:13,555 - INFO - Plate detected for vehicle 23: LF64KDA
+2025-04-22 23:59:13,622 - INFO - Plate detected for vehicle 23: LF64KDA
+2025-04-22 23:59:13,691 - INFO - Plate detected for vehicle 24: OE13EPN
+2025-04-22 23:59:13,761 - INFO - Plate detected for vehicle 24: OE13EPN
+2025-04-22 23:59:13,822 - INFO - Plate detected for vehicle 24: OE13EPN
+2025-04-22 23:59:13,888 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:59:13,955 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:59:14,023 - INFO - Plate detected for vehicle 27: 
+2025-04-22 23:59:14,228 - INFO - Plate detected for vehicle 2: BOK5EI
+2025-04-22 23:59:14,301 - INFO - Plate detected for vehicle 3: B98D2
+2025-04-22 23:59:14,367 - INFO - Plate detected for vehicle 3: B98D2
+2025-04-22 23:59:14,472 - INFO - Plate detected for vehicle 3: B98D2
+2025-04-22 23:59:14,602 - INFO - Plate detected for vehicle 5: GY14NA0
+2025-04-22 23:59:14,723 - INFO - Plate detected for vehicle 5: GY14NA0
+2025-04-22 23:59:14,843 - INFO - Plate detected for vehicle 5: GY14NA0
+2025-04-22 23:59:14,984 - INFO - Plate detected for vehicle 7: S666NJP
+2025-04-22 23:59:15,123 - INFO - Plate detected for vehicle 7: S666NJP
+2025-04-22 23:59:15,236 - INFO - Plate detected for vehicle 7: S666NJP
+2025-04-22 23:59:15,347 - INFO - Plate detected for vehicle 9: L865DTV
+2025-04-22 23:59:15,442 - INFO - Plate detected for vehicle 9: L865DTV
+2025-04-22 23:59:15,562 - INFO - Plate detected for vehicle 9: L865DTV
+2025-04-22 23:59:15,565 - INFO - Plate detection completed. Processed 41 vehicles, detected 36 plates.
